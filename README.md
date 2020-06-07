@@ -11,7 +11,25 @@ rate.Furthermore, I did not point out about the transportation services or the e
 a well linked city in terms of transportation services and with that it will be easy to reach entertaining venues through varoius</li>
 transportaion services that the city provides to its people and visitors.  
 
+Business Problem:
 
+
+
+ The problem is to precisely find the best place that possess the two criteria since it is only figure of the last two years and did not address in depth the kind of crimes or the category of accomodation based on specific details. the study is limited to period of time and it is exposed to differnt changes that casues a deacresing the crimes rates or even the rentig rates
+
+
+Targeted Audience
+
+For everyone who wants to move and live in a megacity in general, and for tourists and visitors who are looking for special criteria based on their preferences. More specifically, for those heading to London in the near Future.
+
+Data needed:
+
+
+
+<li>The needed data For this case are as the following:</li>
+<li>1)  List of Boroughs and neighborhoods of city of London with their geodata (latitude and longitude) and thier population.</li>
+<li>2)  List of crimes in London’s boroughs with their addresses. </li>  
+<li>3) List of boroughs with home renting prices (least cost)</li>
 
 
 
