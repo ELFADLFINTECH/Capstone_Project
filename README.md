@@ -1,5 +1,5 @@
 # Capstone_Project
-Capstone Project - The Battle of Neighbourhood in London. 
+<b>Capstone Project - The Battle of Neighbourhood in London.</b>
 
 <li>As known, London is considered one of the most visited cities globally.</li>
 It has diverse cultures with various races and demographics. In short, London is a mix of everything, and we can write uncountable pages</li>
@@ -10,7 +10,7 @@ I considered criteria like safety and renting cost to list the best boroughs for
 Furthermore, I did not point out the transportation services or the entertainment venues, since London is a well-linked city in those terms. </li>
 
 
-Business Problem:</li>
+<b>Business Problem:</b> </li>
 
 
 
@@ -18,14 +18,14 @@ Business Problem:</li>
  The problem is to precisely find out the best boroughs that possess the two criteria. The experiment covered two years and did not address the kind of crimes and accommodation category in detail. </li>
 
 
-Targeted Audience:</li>
+<b>Targeted Audience</b>:</li>
 
 
 <li> For everyone who wants to move and live in a megacity in general.</li> 
 <li> For tourists and visitors who are looking for general criteria, and for those heading to London shortly.</li>
 
 
-Data needed:</li>
+<b>Data needed</b>:</li>
 
 
 
@@ -33,7 +33,7 @@ Data needed:</li>
 The needed data are as the following:</li>
 <li> List of Boroughs and neighbourhoods of the city of London with their geodata (latitude and longitude) and their population.</li>
 <li> List of crimes in London’s boroughs with their addresses.</li>
-<li> List of boroughs with home renting prices (least cost).</li>
+<li> List of boroughs with home renting prices (least cost).<//li>
 
 
 <b>Problems</b>: </li>
