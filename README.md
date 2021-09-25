@@ -21,8 +21,8 @@ Business Problem:</li>
 Targeted Audience:</li>
 
 
-1) For everyone who wants to move and live in a megacity in general.</li> 
-2) For tourists and visitors who are looking for general criteria, and for those heading to London shortly.</li>
+<li>1) For everyone who wants to move and live in a megacity in general.</li> 
+<li>2) For tourists and visitors who are looking for general criteria, and for those heading to London shortly.</li>
 
 
 Data needed:</li>
@@ -31,9 +31,9 @@ Data needed:</li>
 
 
 <li>The needed data are as the following:</li>
-1) List of Boroughs and neighbourhoods of the city of London with their geodata (latitude and longitude) and their population.</li>
-2) List of crimes in London’s boroughs with their addresses.</li>
-3) List of boroughs with home renting prices (least cost).</li>
+<li>1) List of Boroughs and neighbourhoods of the city of London with their geodata (latitude and longitude) and their population.</li>
+<li>2) List of crimes in London’s boroughs with their addresses.</li>
+<li>3) List of boroughs with home renting prices (least cost).</li>
 
 
 
