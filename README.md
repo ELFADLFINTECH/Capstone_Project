@@ -36,6 +36,8 @@ The needed data are as the following:</li>
 <li> List of boroughs with home renting prices (least cost).</li>
 
 
+Problems:
+<li> Well, in the end, we have to point out some limitations to my study. First of all, the rent prices and crime rates figures are only limited to a short window. Thus, larger data are needed for more accuracy. In addition, it seems that the best boroughs based on the explained criteria are near to the suburbs of the city of London and somehow far from the city centre. It brings backs the dilemma of settling in the centre of mega-cities, which is common globally. Thus, considering the well-designed transportation services in a city like London, living in the suburbs does not seem to be an issue. Besides, more details can be considered for renting costs, like types of accommodation, which can lead to a more accurate study.
 
 
 
